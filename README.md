@@ -1,3 +1,6 @@
+In order for localhost to fetch the data, which is protected by CORS, I used a hack to disable security in the browser. If you want to execute the code you will need to do something similar. NOTE this is DANGEROUS and should only be done temporarily. Notes on how it is done can be found here: https://stackoverflow.com/questions/3102819/disable-same-origin-policy-in-chrome.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
